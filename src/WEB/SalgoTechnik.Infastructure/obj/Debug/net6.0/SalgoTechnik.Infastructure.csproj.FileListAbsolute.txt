@@ -1,0 +1,17 @@
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\bin\Debug\net6.0\SalgoTechnik.Infastructure.deps.json
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\bin\Debug\net6.0\SalgoTechnik.Infastructure.runtimeconfig.json
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\bin\Debug\net6.0\SalgoTechnik.Infastructure.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\bin\Debug\net6.0\SalgoTechnik.Infastructure.pdb
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\bin\Debug\net6.0\SalgoTechnik.Domain.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\bin\Debug\net6.0\SalgoTechnik.Domain.pdb
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\obj\Debug\net6.0\SalgoTechnik.Infastructure.csproj.AssemblyReference.cache
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\obj\Debug\net6.0\SalgoTechnik.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\obj\Debug\net6.0\SalgoTechnik.Infastructure.AssemblyInfoInputs.cache
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\obj\Debug\net6.0\SalgoTechnik.Infastructure.AssemblyInfo.cs
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\obj\Debug\net6.0\SalgoTechnik.Infastructure.csproj.CoreCompileInputs.cache
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\obj\Debug\net6.0\SalgoTechnik.Infastructure.csproj.CopyComplete
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\obj\Debug\net6.0\SalgoTechnik.Infastructure.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\obj\Debug\net6.0\refint\SalgoTechnik.Infastructure.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\obj\Debug\net6.0\SalgoTechnik.Infastructure.pdb
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\obj\Debug\net6.0\SalgoTechnik.Infastructure.genruntimeconfig.cache
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Infastructure\obj\Debug\net6.0\ref\SalgoTechnik.Infastructure.dll

@@ -1,0 +1,19 @@
+
+
+.navigation-list {
+    ul {
+        display: flex;
+
+    }
+
+    li:not(:last-child) {
+        margin-right: 42px;
+    }
+
+    a {
+        color:#FFFF;
+        font-weight: 700px;
+    }
+}
+
+

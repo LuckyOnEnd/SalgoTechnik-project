@@ -1,0 +1,161 @@
+.select_container{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 500px;
+    width: 100%;
+    
+}
+
+.side-bar{
+    width: 100%;
+    height: 500px;
+    left:0;
+    right: 0;
+    overflow-y: auto;
+
+}
+
+.side-bar .menu{
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    margin-top: 25px;
+}
+
+.side-bar .menu .item{
+    position: relative;
+    cursor: pointer;
+
+}
+
+.side-bar .menu .item a{
+    width:280px;
+    white-space: nowrap;
+    color:#fff;
+    background: #257E94;
+    font-size:16px;
+    text-decoration: none;
+    display: block;
+    padding: 15px 140px 10px 20px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    border:0.5px solid #fff
+}
+
+.side-bar .menu .item a:hover{
+    background: #002C3A;
+    transition:0.3s ease;
+
+}
+
+.side-bar .menu .item i{
+     
+}
+
+.side-bar .menu .item a .dropdown{
+    position: absolute;
+    right: 0;
+    margin-top: 4px;
+    margin-right:20px;
+    transition: 0.3s ease;
+}
+
+.side-bar .menu .item .sub-menu{
+    display: none;
+}
+
+.rotate{
+    transform: rotate(90deg);
+}
+
+//projects
+
+.logo-projects{
+   position: absolute;
+   width: 100%;
+   height: 400px;
+}
+
+.logo-title{
+   display:flex;
+}
+
+.title-projects{
+   font-family: 'Work Sans';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 32px;
+   line-height: 38px;
+   color: #257E94;
+   padding-top: 10px;
+   padding-left: 10px;
+}
+
+.container-projects{
+   margin:80px;
+}
+
+.projects__row {
+    position: absolute;
+    padding-top:50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: -150px;
+}
+
+.image-projects{
+    position: relative;
+    flex:1;
+    width:424.01px;
+    height:245.03px;
+}
+
+.data-projects {
+    display: flex;
+}
+
+.text-data-projects {
+    padding-top: 15px;
+    padding-left: 10px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #BA2029;
+}
+
+.title-text-projects {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    color: #002C3A;
+}
+
+.text-description-projects {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    width: 430px;
+    color: #212124;
+
+}
+
+.btn-projects {
+    height:45px; 
+    background-color:#BA2029;
+    border-color: #BA2029; 
+    border-radius: 50px;
+    color: #ffff;
+    padding: 10px 35px ;
+    font-size:16px;
+}
+

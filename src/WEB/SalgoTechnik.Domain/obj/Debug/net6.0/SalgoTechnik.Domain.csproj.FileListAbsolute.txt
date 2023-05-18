@@ -1,0 +1,12 @@
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\bin\Debug\net6.0\SalgoTechnik.Domain.deps.json
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\bin\Debug\net6.0\SalgoTechnik.Domain.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\bin\Debug\net6.0\SalgoTechnik.Domain.pdb
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\obj\Debug\net6.0\SalgoTechnik.Domain.csproj.AssemblyReference.cache
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\obj\Debug\net6.0\SalgoTechnik.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\obj\Debug\net6.0\SalgoTechnik.Domain.AssemblyInfoInputs.cache
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\obj\Debug\net6.0\SalgoTechnik.Domain.AssemblyInfo.cs
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\obj\Debug\net6.0\SalgoTechnik.Domain.csproj.CoreCompileInputs.cache
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\obj\Debug\net6.0\SalgoTechnik.Domain.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\obj\Debug\net6.0\refint\SalgoTechnik.Domain.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\obj\Debug\net6.0\SalgoTechnik.Domain.pdb
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Domain\obj\Debug\net6.0\ref\SalgoTechnik.Domain.dll

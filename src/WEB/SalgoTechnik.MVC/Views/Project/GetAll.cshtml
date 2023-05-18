@@ -1,0 +1,224 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization;
+@using SalgoTechnik.Application.Interfaces;
+@inject IProjectService ProjectService;
+@inject IViewLocalizer Localizer
+@model List<SalgoTechnik.Domain.Entities.Project>
+@{
+    string ProjectType = "";
+    string LegalRelationship = "";
+    string ProjectLocation = "";
+    string ProjectLanguage = "";
+    Layout = null;
+
+    void ProjectTypeSet(string value)
+    {
+        ProjectType = value;
+    }
+
+    void LegalRelationshipSet(string value)
+    {
+
+    }
+
+    void ProjectLocationSet(string value)
+    {
+
+    }
+
+    void ProjectLanguageSet(string value)
+    {
+        
+    }
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/slide.css">
+    <meta name="viewport" content="width=1366">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" charset="UTF-8"></script>
+    <title>Projects</title>
+</head>
+<body>
+    <!--Navigation list-->
+    <nav class="nav">
+        <div class="container">
+            <div class="nav__row">
+                <div class="logo">
+                    <a asp-action="Index" asp-controller="Home">
+                        <img src="/img/logo/group.svg" alt="logo">
+                    </a>
+                </div>
+                <div class="navigation-list">
+                    <ul>
+                        <li><a asp-action="References" asp-controller="References">@Localizer["Reference"]</a></li>
+                        <li><a asp-controller="Weare" asp-action="Page">@Localizer["We are"]</a></li>
+                        <li><a asp-controller="Project" asp-action="GetAll">@Localizer["Project"]</a></li>
+                        <li><a href="#">@Localizer["Application"]</a></li>
+                        <li>
+                            <img src="/img/social/Group 175.svg" alt="social">
+                            <input type="text" style="border-color: #002C3A; background-color: #002C3A; border-radius: 50px; color: #ffff; width:150px; height:24px;">
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="/img/social/Group 188.svg" style="width: 23px; height: 23px;" alt="social">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="/img/social/Aiga_mail_white.svg.png" style="width: 23px; height: 23px;" alt="social">
+                            </a>
+                        </li>
+                        <li>
+                            <a asp-action="ChangeLanguage" asp-controller="Project" asp-route-culture="en-US">EN</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!--End Navigation list-->
+    <main>
+        <div class="select_container">
+            <div class="side-bar">
+                <div class="container">
+                    <div class="menu">
+                        <div class="item">
+                            <a class="sub-btn" style="background-color:#BA2029;">
+                                @Localizer["Jogviszony"]<i class="fas fa-angle-right dropdown"></i></a>
+                            <div class="sub-menu">
+                                <a onclick="@ProjectTypeSet" asp-action="" class="sub-item">@Localizer["Alkalmazotti szerződés1"]</a>
+                                <a href="#" class="sub-item">@Localizer["Alkalmazotti szerződés2"]</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <a class="sub-btn" style="background-color:#BA2029;">
+                                @Localizer["Technológia"]<i class="fas fa-angle-right dropdown"></i></a>
+                            <div class="sub-menu">
+                                <a onclick="@(() => ProjectTypeSet("Java"))" class="sub-item">Java</a>
+                                <a onclick="@(() => ProjectTypeSet("Net"))" class="sub-item">Net</a>
+                                <a onclick="@(() => ProjectTypeSet("Angular"))" class="sub-item">Angular</a>
+                                <a onclick="@(() => ProjectTypeSet("React"))" class="sub-item">React</a>
+                                <a onclick="@(() => ProjectTypeSet("Test"))" class="sub-item">Test</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <a class="sub-btn" style="background-color:#BA2029;">@Localizer["Projekt helyszín"]<i class="fas fa-angle-right dropdown"></i></a>
+                            <div class="sub-menu">
+                                <a onclick="@(() => LegalRelationshipSet("Ország / Város"))" class="sub-item">@Localizer["Ország / Város1"]</a>
+                                <a onclick="@(() => LegalRelationshipSet("Ország / Város2"))" class="sub-item">@Localizer["Ország / Város2"]</a>
+                                <a onclick="@(() => LegalRelationshipSet("Ország / Város3"))" class="sub-item">@Localizer["Ország / Város3"]</a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <a class="sub-btn" style="background-color:#BA2029;">Projektnyelv<i class="fas fa-angle-right dropdown"></i></a>
+                            <div class="sub-menu">
+                                <a onclick="@(() => LegalRelationshipSet("német"))" class="sub-item">@Localizer["német"]</a>
+                                <a onclick="@(() => LegalRelationshipSet("angol"))" class="sub-item">@Localizer["angol"]</a>
+                                <a onclick="@(() => LegalRelationshipSet("magyar"))" class="sub-item">@Localizer["magyar"]</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    //jquery for toggle sub menus
+                    $('.sub-btn').click(function () {
+                        $(this).next('.sub-menu').slideToggle();
+                        $(this).find('.dropdown').toggleClass('rotate');
+                    });
+                });
+            </script>
+        </div>
+
+        <div class="logo-projects">
+            <div class="container">
+                <div class="logo-title">
+                    <img src="/sass/images/logo/group2.svg" style="padding-left: 400px;">
+                    <p class="title-projects">@Localizer["Projects"]</p>
+                </div>
+            </div>
+        </div>
+        <div class="projects">
+            <div class="container">
+                <div class="projects__row">
+                    @foreach(var x in Model)
+                    {
+                        <div class="container-projects">
+                            <img src="@x.ImageUrl" class="image-projects">
+                            <div class="data-projects">
+                                <img src="/sass/images/projects/Group 209.svg">
+                                <p class="text-data-projects">@x.DateConverted</p>
+                            </div>
+                            <p class="title-text-projects">@x.Name</p>
+                            <p class="text-description-projects">@x.Description</p>
+                            <button type="button" class="btn-projects">Jelentkezem<i class="fas fa-angle-right i-projects" style="margin-left: 25px; margin-top: 5px;"></i></button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer" style="top:2100px;">
+        <div class="container">
+            <div class="footer_row">
+                <div class="block1">
+                    <img src="~/sass/images/logo/group2.svg">
+                    <p class="text-descriptin-footer1">
+                        @Localizer["Megbízható, szakmailag kompetens, ügyfélorientált partnert keres?"]
+                        <span class="colortext">@Localizer["Nálunk megtalálta"].</span>
+                    </p>
+                </div>
+                <div class="block2">
+                    <p class="text-title-footer">Kapcsolat</p>
+                    <p class="text-number">Call: +36 30 123 45 67</p>
+                    <p class="text-number">Email: info@salgotech.com</p>
+                    <p class="text-number">Cím: HU-1234 Lorem, Ipsum 12.</p>
+                </div>
+                <div class="block3">
+                    <p class="text-title-footer">@Localizer["Carrier"]</p>
+                    <a href="#"><img src="/sass/images/footer/karrier.png"></a>
+                </div>
+            </div>
+            <div class="main__block1__stripe"></div>
+            <div class="text__footer">
+                <p>© 2022 Salgo-Technik Kft. - adatvédelmi szabályzat</p>
+            </div>
+            <div class="in__footer">
+                <img src="/sass/images/footer/Vector (2).svg">
+            </div>
+        </div>
+
+    </footer>
+
+    @section Scripts{ 
+<script>  
+    $(function () {
+        $("#ddltype").change(function () {
+            $.ajax({
+                type: "Get",
+                        url: "/Home/ChangeLanguage?culture=" + $(this).val(),  //remember change the controller to your owns.
+                        success: function (data) {
+                    $("#productcontainer").html("");
+                    $("#productcontainer").html(data);
+                },
+                error: function (response) {
+                    console.log(response.responseText);
+                }
+            });
+        });
+    });
+</script>
+}
+</body>
+</html>

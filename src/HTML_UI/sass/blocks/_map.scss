@@ -1,0 +1,41 @@
+.map {
+    position: absolute;
+    min-width: 100%;
+    height: 400px;
+    top:2400px;
+
+}
+
+.map__row {
+    display:flex;
+    flex-direction: column;
+    padding-bottom: 40px;
+}
+.map__title {
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+color: #257E94;
+}
+.text-descriptin-map {
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+color: #257E94;
+}
+
+.number{
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.logo__map{
+    text-align: center;
+    padding-bottom: 25px;
+}

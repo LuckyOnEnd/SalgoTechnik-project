@@ -1,0 +1,75 @@
+.strengths {
+background: #257e941f;
+position: absolute;
+background-size: no-repeat;
+background-position: center;
+background-size: cover;
+height:541px;
+min-width: 100%;
+left: 0px;
+top: 550px;
+}
+
+.strengths-header {
+
+}
+
+.text3 {
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+color:$accent;
+padding-top:30px;
+text-align: center;
+
+}
+
+.strengths-steps {
+    padding: 50px 0px;    
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.steps {
+    padding:0px 50px 0px 30px;
+}
+
+.steps__title {
+    margin-top:5px;
+    margin-bottom:10px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: $accent;
+
+}
+
+.image__line{
+    margin-bottom:20px;
+}
+
+.steps__descriptions {
+    width: 300px;
+    height: 19px;
+    color:#002C3A;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.logo-steps{
+    position: relative;
+    right:680px;
+    top:280px;
+
+}
+

@@ -1,0 +1,17 @@
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\bin\Debug\net6.0\SalgoTechnik.Application.deps.json
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\bin\Debug\net6.0\SalgoTechnik.Application.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\bin\Debug\net6.0\SalgoTechnik.Application.pdb
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\bin\Debug\net6.0\SalgoTechnik.Domain.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\bin\Debug\net6.0\SalgoTechnik.Domain.pdb
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\obj\Debug\net6.0\SalgoTechnik.Application.csproj.AssemblyReference.cache
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\obj\Debug\net6.0\SalgoTechnik.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\obj\Debug\net6.0\SalgoTechnik.Application.AssemblyInfoInputs.cache
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\obj\Debug\net6.0\SalgoTechnik.Application.AssemblyInfo.cs
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\obj\Debug\net6.0\SalgoTechnik.Application.csproj.CoreCompileInputs.cache
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\obj\Debug\net6.0\SalgoTechnik.Application.csproj.CopyComplete
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\obj\Debug\net6.0\SalgoTechnik.Application.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\obj\Debug\net6.0\refint\SalgoTechnik.Application.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\obj\Debug\net6.0\SalgoTechnik.Application.pdb
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\obj\Debug\net6.0\ref\SalgoTechnik.Application.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\bin\Debug\net6.0\SalgoTechnik.Infastructure.dll
+D:\development\freelance\SalgoTechnik\src\WEB\SalgoTechnik.Application\bin\Debug\net6.0\SalgoTechnik.Infastructure.pdb

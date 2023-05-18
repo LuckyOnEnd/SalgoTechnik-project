@@ -1,0 +1,569 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SalgoTechnik.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SalgoTechnik.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\css\\main.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\clients\\clients.jpg",
+      "PackagePath": "staticwebassets\\img\\clients\\clients.jpg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\logo\\group.svg",
+      "PackagePath": "staticwebassets\\img\\logo\\group.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\logo\\group2.svg",
+      "PackagePath": "staticwebassets\\img\\logo\\group2.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\logo\\group3.svg",
+      "PackagePath": "staticwebassets\\img\\logo\\group3.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\logo\\logoimage.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logoimage.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\slides\\Rectangle.png",
+      "PackagePath": "staticwebassets\\img\\slides\\Rectangle.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\slides\\Vector (1).svg",
+      "PackagePath": "staticwebassets\\img\\slides\\Vector (1).svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\slides\\Vector 2.svg",
+      "PackagePath": "staticwebassets\\img\\slides\\Vector 2.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\social\\Aiga_mail_white.svg.png",
+      "PackagePath": "staticwebassets\\img\\social\\Aiga_mail_white.svg.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\social\\DE.svg",
+      "PackagePath": "staticwebassets\\img\\social\\DE.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\social\\Group 175.svg",
+      "PackagePath": "staticwebassets\\img\\social\\Group 175.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\social\\Group 188.svg",
+      "PackagePath": "staticwebassets\\img\\social\\Group 188.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\social\\Map.jpg",
+      "PackagePath": "staticwebassets\\img\\social\\Map.jpg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\social\\Vector (1).svg",
+      "PackagePath": "staticwebassets\\img\\social\\Vector (1).svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\social\\Vector (2).svg",
+      "PackagePath": "staticwebassets\\img\\social\\Vector (2).svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\social\\Vector 12.svg",
+      "PackagePath": "staticwebassets\\img\\social\\Vector 12.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\social\\Vector.svg",
+      "PackagePath": "staticwebassets\\img\\social\\Vector.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\social\\group 82.jpg",
+      "PackagePath": "staticwebassets\\img\\social\\group 82.jpg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\social\\remote.svg",
+      "PackagePath": "staticwebassets\\img\\social\\remote.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\Ügyfeleink\\Ügyfeleink.png",
+      "PackagePath": "staticwebassets\\img\\Ügyfeleink\\Ügyfeleink.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\img\\�gyfeleink\\�gyfeleink.png",
+      "PackagePath": "staticwebassets\\img\\�gyfeleink\\�gyfeleink.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\base\\_base.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\base\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\base\\_footer.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\base\\_layout.scss",
+      "PackagePath": "staticwebassets\\sass\\base\\_layout.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\base\\_reset.scss",
+      "PackagePath": "staticwebassets\\sass\\base\\_reset.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\base\\_vars.scss",
+      "PackagePath": "staticwebassets\\sass\\base\\_vars.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_Ugyfeleink.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_Ugyfeleink.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_clients.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_clients.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_footer.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_header.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_map.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_map.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_nav.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_nav.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_navigation-list.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_navigation-list.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_projects.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_projects.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_references.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_references.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_slides.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_slides.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_strengths.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_strengths.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_values.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_values.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\blocks\\_weare.scss",
+      "PackagePath": "staticwebassets\\sass\\blocks\\_weare.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\clients\\clients.jpg",
+      "PackagePath": "staticwebassets\\sass\\images\\clients\\clients.jpg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\footer\\Vector (2).svg",
+      "PackagePath": "staticwebassets\\sass\\images\\footer\\Vector (2).svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\footer\\Vector 1.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\footer\\Vector 1.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\footer\\in.png",
+      "PackagePath": "staticwebassets\\sass\\images\\footer\\in.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\footer\\karrier.png",
+      "PackagePath": "staticwebassets\\sass\\images\\footer\\karrier.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\logo\\group.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\logo\\group.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\logo\\group2.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\logo\\group2.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\logo\\group3.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\logo\\group3.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\logo\\logoimage.png",
+      "PackagePath": "staticwebassets\\sass\\images\\logo\\logoimage.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\main\\Map.jpg",
+      "PackagePath": "staticwebassets\\sass\\images\\main\\Map.jpg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\main\\Rectangle234.jpg",
+      "PackagePath": "staticwebassets\\sass\\images\\main\\Rectangle234.jpg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\main\\group 82.jpg",
+      "PackagePath": "staticwebassets\\sass\\images\\main\\group 82.jpg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\main\\Értékeink.png",
+      "PackagePath": "staticwebassets\\sass\\images\\main\\Értékeink.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\main\\Értékeinklogo.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\main\\Értékeinklogo.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\main\\Ügyfeleink.png",
+      "PackagePath": "staticwebassets\\sass\\images\\main\\Ügyfeleink.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\main\\�gyfeleink.png",
+      "PackagePath": "staticwebassets\\sass\\images\\main\\�gyfeleink.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\main\\�rt�keinklogo.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\main\\�rt�keinklogo.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\projects\\Group 209.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\projects\\Group 209.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\projects\\Rectangle 13.jpg",
+      "PackagePath": "staticwebassets\\sass\\images\\projects\\Rectangle 13.jpg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\slides\\Rectangle.png",
+      "PackagePath": "staticwebassets\\sass\\images\\slides\\Rectangle.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\slides\\Vector (1).svg",
+      "PackagePath": "staticwebassets\\sass\\images\\slides\\Vector (1).svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\slides\\Vector 2.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\slides\\Vector 2.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\slides\\logoimage.png",
+      "PackagePath": "staticwebassets\\sass\\images\\slides\\logoimage.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\social\\Aiga_mail_white.svg.png",
+      "PackagePath": "staticwebassets\\sass\\images\\social\\Aiga_mail_white.svg.png"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\social\\DE.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\social\\DE.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\social\\Group 175.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\social\\Group 175.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\social\\Group 188.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\social\\Group 188.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\social\\Vector (1).svg",
+      "PackagePath": "staticwebassets\\sass\\images\\social\\Vector (1).svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\social\\Vector (2).svg",
+      "PackagePath": "staticwebassets\\sass\\images\\social\\Vector (2).svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\social\\Vector 12.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\social\\Vector 12.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\social\\Vector.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\social\\Vector.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\social\\remote.svg",
+      "PackagePath": "staticwebassets\\sass\\images\\social\\remote.svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\images\\weare\\Vector (1).svg",
+      "PackagePath": "staticwebassets\\sass\\images\\weare\\Vector (1).svg"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\sass\\main.scss"
+    },
+    {
+      "Id": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.MVC\\wwwroot\\sass\\main\\_Ugyfeleink.scss",
+      "PackagePath": "staticwebassets\\sass\\main\\_Ugyfeleink.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SalgoTechnik.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SalgoTechnik.MVC.props",
+      "PackagePath": "build\\SalgoTechnik.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SalgoTechnik.MVC.props",
+      "PackagePath": "buildMultiTargeting\\SalgoTechnik.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SalgoTechnik.MVC.props",
+      "PackagePath": "buildTransitive\\SalgoTechnik.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

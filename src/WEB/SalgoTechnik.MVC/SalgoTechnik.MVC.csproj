@@ -1,0 +1,80 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\img\logo\group.svg" />
+    <None Include="wwwroot\img\logo\group2.svg" />
+    <None Include="wwwroot\img\logo\group3.svg" />
+    <None Include="wwwroot\img\slides\Vector %281%29.svg" />
+    <None Include="wwwroot\img\slides\Vector 2.svg" />
+    <None Include="wwwroot\img\social\DE.svg" />
+    <None Include="wwwroot\img\social\Group 175.svg" />
+    <None Include="wwwroot\img\social\Group 188.svg" />
+    <None Include="wwwroot\img\social\remote.svg" />
+    <None Include="wwwroot\img\social\Vector %281%29.svg" />
+    <None Include="wwwroot\img\social\Vector %282%29.svg" />
+    <None Include="wwwroot\img\social\Vector 12.svg" />
+    <None Include="wwwroot\img\social\Vector.svg" />
+    <None Include="wwwroot\sass\base\_base.scss" />
+    <None Include="wwwroot\sass\base\_footer.scss" />
+    <None Include="wwwroot\sass\base\_layout.scss" />
+    <None Include="wwwroot\sass\base\_reset.scss" />
+    <None Include="wwwroot\sass\base\_vars.scss" />
+    <None Include="wwwroot\sass\blocks\_clients.scss" />
+    <None Include="wwwroot\sass\blocks\_footer.scss" />
+    <None Include="wwwroot\sass\blocks\_header.scss" />
+    <None Include="wwwroot\sass\blocks\_map.scss" />
+    <None Include="wwwroot\sass\blocks\_nav.scss" />
+    <None Include="wwwroot\sass\blocks\_navigation-list.scss" />
+    <None Include="wwwroot\sass\blocks\_projects.scss" />
+    <None Include="wwwroot\sass\blocks\_slides.scss" />
+    <None Include="wwwroot\sass\blocks\_strengths.scss" />
+    <None Include="wwwroot\sass\blocks\_Ugyfeleink.scss" />
+    <None Include="wwwroot\sass\blocks\_values.scss" />
+    <None Include="wwwroot\sass\blocks\_weare.scss" />
+    <None Include="wwwroot\sass\images\footer\Vector %282%29.svg" />
+    <None Include="wwwroot\sass\images\footer\Vector 1.svg" />
+    <None Include="wwwroot\sass\images\logo\group.svg" />
+    <None Include="wwwroot\sass\images\logo\group2.svg" />
+    <None Include="wwwroot\sass\images\logo\group3.svg" />
+    <None Include="wwwroot\sass\images\main\Értékeinklogo.svg" />
+    <None Include="wwwroot\sass\images\slides\Vector %281%29.svg" />
+    <None Include="wwwroot\sass\images\slides\Vector 2.svg" />
+    <None Include="wwwroot\sass\images\social\DE.svg" />
+    <None Include="wwwroot\sass\images\social\Group 175.svg" />
+    <None Include="wwwroot\sass\images\social\Group 188.svg" />
+    <None Include="wwwroot\sass\images\social\remote.svg" />
+    <None Include="wwwroot\sass\images\social\Vector %281%29.svg" />
+    <None Include="wwwroot\sass\images\social\Vector %282%29.svg" />
+    <None Include="wwwroot\sass\images\social\Vector 12.svg" />
+    <None Include="wwwroot\sass\images\social\Vector.svg" />
+    <None Include="wwwroot\sass\images\weare\Vector %281%29.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.15">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SalgoTechnik.Application\SalgoTechnik.Application.csproj" />
+    <ProjectReference Include="..\SalgoTechnik.Domain\SalgoTechnik.Domain.csproj" />
+    <ProjectReference Include="..\SalgoTechnik.Infastructure\SalgoTechnik.Infastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,224 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Application\\SalgoTechnik.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Application\\SalgoTechnik.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Application\\SalgoTechnik.Application.csproj",
+        "projectName": "SalgoTechnik.Application",
+        "projectPath": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Application\\SalgoTechnik.Application.csproj",
+        "packagesPath": "C:\\Users\\trusv\\.nuget\\packages\\",
+        "outputPath": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trusv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Domain\\SalgoTechnik.Domain.csproj": {
+                "projectPath": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Domain\\SalgoTechnik.Domain.csproj"
+              },
+              "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Infastructure\\SalgoTechnik.Infastructure.csproj": {
+                "projectPath": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Infastructure\\SalgoTechnik.Infastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Domain\\SalgoTechnik.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Domain\\SalgoTechnik.Domain.csproj",
+        "projectName": "SalgoTechnik.Domain",
+        "projectPath": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Domain\\SalgoTechnik.Domain.csproj",
+        "packagesPath": "C:\\Users\\trusv\\.nuget\\packages\\",
+        "outputPath": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trusv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Infastructure\\SalgoTechnik.Infastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Infastructure\\SalgoTechnik.Infastructure.csproj",
+        "projectName": "SalgoTechnik.Infastructure",
+        "projectPath": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Infastructure\\SalgoTechnik.Infastructure.csproj",
+        "packagesPath": "C:\\Users\\trusv\\.nuget\\packages\\",
+        "outputPath": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Infastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trusv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Domain\\SalgoTechnik.Domain.csproj": {
+                "projectPath": "D:\\development\\freelance\\SalgoTechnik\\src\\WEB\\SalgoTechnik.Domain\\SalgoTechnik.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

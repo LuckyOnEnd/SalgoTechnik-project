@@ -1,0 +1,266 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@using SalgoTechnik.Application.Services;
+@inject IViewLocalizer Localizer
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/slide.css">
+    <meta name="viewport" content="width=1366">
+    <title>SalgoTechnik</title>
+</head>
+<body>
+    <!--Navigation list-->
+    <nav class="nav">
+        <div class="container">
+            <div class="nav__row">
+                <div class="logo">
+                    <a asp-action="Index" asp-controller="Home">
+                        <img src="/img/logo/group.svg" alt="logo">
+                    </a>
+                </div>
+                <div class="navigation-list">
+                    <ul>
+                        <li><a asp-action="References" asp-controller="References">@Localizer["Reference"]</a></li>
+                        <li><a asp-controller="Weare" asp-action="Page">@Localizer["We are"]</a></li>
+                        <li><a asp-controller="Project" asp-action="GetAll">@Localizer["Project"]</a></li>
+                        <li><a href="#">@Localizer["Application"]</a></li>
+                        <li>
+                            <img src="/img/social/Group 175.svg" alt="social">
+                            <input type="text" style="border-color: #002C3A; background-color: #002C3A; border-radius: 50px; color: #ffff; width:150px; height:24px;">
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="/img/social/Group 188.svg" style="width: 23px; height: 23px;" alt="social">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="/img/social/Aiga_mail_white.svg.png" style="width: 23px; height: 23px;" alt="social">
+                            </a>
+                        </li>
+                        <li>
+                           <a asp-action="ChangeLanguage" asp-controller="Home" asp-route-culture="en-US">EN</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!--End Navigation list-->
+
+    <header class="header">
+        <div class="header__row">
+            <div class="header__text">
+                <p class="text1">@Localizer["REMOTE IT SOLUTIONS"]</p>
+                <p class="text2">@Localizer["SOFTWARE PLANNING, DEVELOPMENT, CONSULTANCY"]</p>
+                <button type="button" class="btn">@Localizer["Kapscolat"]</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="strengths">
+            <div class="container">
+                <div class="strengths-header">
+                    <p class="text3">@Localizer["Strengths"]</p>
+                </div>
+                <div class="strengths-steps">
+                    <div class="steps">
+                        <img src="./img/social/Vector.svg" alt="socia">
+                        <p class="steps__title">@Localizer["Reliable"]</p>
+                        <img src="./img/social/Vector 12.svg" alt="social" class="image__line">
+                        <p class="steps__descriptions">@Localizer["text1"]</p>
+                    </div>
+                    <div class="steps">
+                        <img src="./img/social/Vector (1).svg" alt="socia">
+                        <p class="steps__title">@Localizer["Professional"]</p>
+                        <img src="./img/social/Vector 12.svg" alt="social" class="image__line">
+                        <p class="steps__descriptions">@Localizer["text2"]</p>
+                    </div>
+                    <div class="steps">
+                        <img src="./img/social/Vector (2).svg" alt="socia">
+                        <p class="steps__title">@Localizer["Nearshore"]</p>
+                        <img src="./img/social/Vector 12.svg" alt="social" class="image__line">
+                        <p class="steps__descriptions">@Localizer["text3"]</p>
+                    </div>
+                    <img src="./img/logo/group2.svg" class="logo-steps" alt="social">
+                </div>
+            </div>
+            <div class="Ügyfeleink">
+                <div class="container">
+                    <div class="Ügyfeleink-row">
+                        <p class="title__Ügyfeleink">@Localizer["Ugyfeleink"]</p>
+                        <p class="text-description-Ügyfeleink">
+                            @Localizer["UgyfeleinkText"]
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="clients">
+                <div class="container">
+                    <img src="/sass/images/clients/clients.jpg" alt="clients" class="image__clients">
+                </div>
+            </div>
+
+            <div class="slides-all">
+                <div class="slider">
+                    <div class="slides">
+                        <!--radio buttons start-->
+                        <input type="radio" name="radio-btn" id="radio1">
+                        <input type="radio" name="radio-btn" id="radio2">
+                        <input type="radio" name="radio-btn" id="radio3">
+                        <input type="radio" name="radio-btn" id="radio4">
+                        <!--radio buttons end-->
+                        <!--slides images start-->
+                        <div class="slide first">
+                            <img src="/sass/images/slides/Rectangle.png" alt="">
+                            <div class="text_slide_block1">
+                                <p class="title_slide">@Localizer["Kollégáinkról mondták1"]</p>
+                                <img src="/sass/images/slides/Vector (1).svg" class="img.slide_vector" style="width: 45px; height: 30px; margin-top: 35px; margin-bottom: 27px;">
+                                <p class="description_slide">@Localizer["text4"]</p>
+                                <div class="main__slide__stripe"></div>
+                                <p class="text_slide">@Localizer["KSB SE & Co. KGaA, Frankenthal#1"]</p>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <img src="/sass/images/slides/logoimage.png" alt="">
+                            <div class="text_slide_block1">
+                                <p class="title_slide">@Localizer["Kollégáinkról mondták2"]</p>
+                                <img src="/sass/images/slides/Vector (1).svg" class="img.slide_vector" style="width: 45px; height: 30px; margin-top: 35px; margin-bottom: 27px;">
+                                <p class="description_slide">@Localizer["text5"]</p>
+                                <div class="main__slide__stripe"></div>
+                                <p class="text_slide">@Localizer["KSB SE & Co. KGaA, Frankenthal#2"]</p>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <img src="/sass/images/slides/Rectangle.png" alt="">
+                            <div class="text_slide_block1">
+                                <p class="title_slide">@Localizer["Kollégáinkról mondták3"]</p>
+                                <img src="/sass/images/slides/Vector (1).svg" class="img.slide_vector" style="width: 45px; height: 30px; margin-top: 35px; margin-bottom: 27px;">
+                                <p class="description_slide">@Localizer["text6"]</p>
+                                <div class="main__slide__stripe"></div>
+                                <p class="text_slide">@Localizer["KSB SE & Co. KGaA, Frankenthal#3"]</p>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <img src="/sass/images/slides/logoimage.png" alt="">
+                            <div class="text_slide_block1">
+                                <p class="title_slide">@Localizer["Kollégáinkról mondták4"]</p>
+                                <img src="/sass/images/slides/Vector (1).svg" class="img.slide_vector" style="width: 45px; height: 30px; margin-top: 35px; margin-bottom: 27px;">
+                                <p class="description_slide">@Localizer["text7"]</p>
+                                <div class="main__slide__stripe"></div>
+                                <p class="text_slide">@Localizer["KSB SE & Co. KGaA, Frankenthal#4"]</p>
+                            </div>
+                        </div>
+                        <!--slides images end-->
+                        <!--automatic navigation start-->
+                        <div class="navigation-auto">
+                            <div class="auto-btn1"></div>
+                            <div class="auto-btn2"></div>
+                            <div class="auto-btn3"></div>
+                            <div class="auto-btn4"></div>
+                        </div>
+                        <!--automatic navigation end-->
+                    </div>
+                    <!--manual navigation start-->
+                    <div class="navigation-manual">
+                        <label for="radio1" class="manual-btn"></label>
+                        <label for="radio2" class="manual-btn"></label>
+                        <label for="radio3" class="manual-btn"></label>
+                        <label for="radio4" class="manual-btn"></label>
+                    </div>
+                    <!--manual navigation end-->
+                </div>
+                <!--image slider end-->
+
+                <script type="text/javascript">
+                    var counter = 1;
+                    setInterval(function () {
+                        document.getElementById('radio' + counter).checked = true;
+                        counter++;
+                        if (counter > 4) {
+                            counter = 1;
+                        }
+                    }, 5000);
+                </script>
+            </div>
+
+            <section class="values">
+                <div class="container">
+                    <div class="Értékeink-row">
+                        <div class="title_h">
+                            <p class="title__Értékeink">@Localizer["Értékeink"]</p>
+                            <p class="text-descriptin-Értékeink">@Localizer["text8"]</p>
+                        </div>
+                        <div class="image__values">
+                            <img src="/sass/images/main/Értékeinklogo.svg">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <secton class="map">
+                <div class="container">
+                    <div class="map__row">
+                        <p class="map__title">@Localizer["Kapscolat"]</p>
+                        <p class="text-descriptin-map">@Localizer["text9"]</p>
+                        <div class="number">
+                            <img src="/sass/images/main/group 82.jpg">
+                        </div>
+                        <div class="logo__map">
+                            <img src="/sass/images/logo/group2.svg">
+                        </div>
+                        <img src="/sass/images/main/Map.jpg">
+                    </div>
+                </div>
+            </secton>
+
+    </main>
+
+    <footer class="footer" style="top:3880px;">
+        <div class="container">
+            <div class="footer_row">
+                <div class="block1">
+                    <img src="/sass/images/logo/group2.svg">
+                    <p class="text-descriptin-footer1">
+                       @Localizer["text10"]
+                        <span class="colortext">@Localizer["text11"]</span>
+                    </p>
+                </div>
+                <div class="block2">
+                    <p class="text-title-footer">@Localizer["Kapsolat"]</p>
+                    <p class="text-number">Call: +36 30 123 45 67</p>
+                    <p class="text-number">Email: info@salgotech.com</p>
+                    <p class="text-number">Cím: HU-1234 Lorem, Ipsum 12.</p>
+                </div>
+                <div class="block3">
+                    <p class="text-title-footer">@Localizer["Carrier"]</p>
+                    <a href="#"><img src="/sass/images/footer/karrier.png"></a>
+                </div>
+            </div>
+            <div class="main__block1__stripe"></div>
+            <div class="text__footer">
+                <p>@Localizer["End-Page"]</p>
+            </div>
+            <div class="in__footer">
+                <img src="/sass/images/footer/Vector (2).svg">
+            </div>
+        </div>
+
+    </footer>
+
+
+</body>
+</html>
+
+
